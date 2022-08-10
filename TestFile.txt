@@ -1,6 +1,7 @@
 1. Primer cambio en staging
 2. Segundo cambio en staging
 3. Tercer cambio en stating
+<<<<<<< HEAD
 4. Cuarto cambio en staging
 5. Quinto cambio en stating, este ya va en un nuevo branch
 6. Sexto cambio
